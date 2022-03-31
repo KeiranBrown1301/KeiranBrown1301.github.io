@@ -1,5 +1,5 @@
 body {
-  font-family: 'Monserrat', 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 1rem;
   text-align: left;
   color: black;
@@ -67,6 +67,12 @@ nav a:hover {
   flex-direction: column;
 }
 
+.hero-container h1 {
+    font-size: 3.5rem;
+    line-height: 1.2;
+    font-family: 'Monserrat', sans-serif;
+}
+
 .avatar-hero {
   width: 364px;
   border-radius: 5px;
@@ -103,14 +109,27 @@ nav a:hover {
   flex-direction: column;
   /* background-color: #A68DAD; */
   background-color: #FFE8DF;
+  font-family: 'Open-sans', sans-serif;
 }
 
 .skills-container ul {
   list-style-type: none;
 }
 
+.skills-container h1 {
+    font-size: 3.5rem;
+    line-height: 1.2;
+    font-family: 'Monserrat', sans-serif;
+}
+
 .projects-container {
   height: 100vh;
+}
+
+.projects-container h1 {
+    font-size: 3.5rem;
+    line-height: 1.2;
+    font-family: 'Monserrat', sans-serif;
 }
 
 .contact-me-container {
@@ -122,6 +141,12 @@ nav a:hover {
    display: flex;
    align-items: center;
    flex-direction: column;
+}
+
+.contact-me-container h1 {
+    font-size: 3.5rem;
+    line-height: 1.2;
+    font-family: 'Monserrat', sans-serif;
 }
 
 .active {
