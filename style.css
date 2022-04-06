@@ -224,6 +224,12 @@ nav a:hover {
   }
 }
 
+/* Swiper Styling */
+.swiper {
+  width: 600px;
+  height: 300px;
+}
+
 @media (max-width: 576px) {
   h1 {
     font-size: 2.6rem;
