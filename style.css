@@ -243,8 +243,8 @@ nav a:hover {
 }
 
 .project-home-image {
-  width: 558px;
-  margin-left: 24px;
+  width: 100%;
+  /* margin-left: 24px; */
 }
 
 #slides {
@@ -288,7 +288,9 @@ nav a:hover {
   }
 
 }
-
-@media (max-width: 1200px) {
-
-}
+/*
+@media (min-width: 1200px) {
+  .project-home-image {
+    width: 200px;
+  }
+} */
