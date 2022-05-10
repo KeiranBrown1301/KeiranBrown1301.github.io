@@ -109,7 +109,6 @@ nav a:hover {
   display: flex;
   align-items: center;
   flex-direction: column;
-  /* background-color: #A68DAD; */
   background-color: #FFE8DF;
   font-family: 'Open-sans', sans-serif;
 }
@@ -126,8 +125,8 @@ nav a:hover {
 
 .projects-container {
   width: auto;
-  padding-left: 15px;
-  padding-left: 15px;
+  /* padding-left: 15px; */
+  /* padding-right: 15px; */
   margin-left: auto;
   margin-right: auto;
 }
